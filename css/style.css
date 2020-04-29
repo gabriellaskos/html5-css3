@@ -1,0 +1,35 @@
+body {
+    background: rgb(134, 250, 134);
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+header{
+    margin-top: 60px;
+}
+
+h1{
+    color: honeydew;
+    font-family: cursive;
+}
+
+h3{
+    color: indigo;
+}
+
+p{
+    font-size: 10spx;
+    font-family: sans-serif;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+}
+
+.img_dio{
+    margin-bottom: 35px;
+}
+
+footer{
+    margin-bottom: 35px;
+}
